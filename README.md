@@ -1,7 +1,8 @@
 # Data Analysis – Public Opinion Survey (EU)
 
-Tento repozitár obsahuje dáta a analýzu verejnej mienky pripravenú pre **EU**.  
+Tento repozitár obsahuje dáta a analýzu verejnej mienky EU.
 Cieľom projektu bolo získať prehľad o názoroch respondentov a vytvoriť prehľadné vizualizácie a závery.
+Dáta pochádzajú s voľne dostupných zdrojov na internete. 
 
 ---
 
