@@ -2,11 +2,11 @@
 
 
 
-Analýza verejnej mienky bola realizovaná počas festivalu Pohoda v spolupráci s Európskou komisiou. Do prieskumu sa zapojilo celkovo 1527 respondentov, ktorí odpovedali na sériu otázok zameraných na využívanie eurofondov a na fungovanie Európskej únie. Cieľom prieskumu bolo získať kvantitatívne dáta o prioritách a názoroch účastníkov.
+Analýza verejnej mienky bola realizovaná z voľne dostupných zdrojov. Do prieskumu sa zapojilo celkovo 1527 respondentov, ktorí odpovedali na sériu otázok zameraných na využívanie eurofondov a na fungovanie Európskej únie. Cieľom prieskumu bolo získať kvantitatívne dáta o prioritách a názoroch účastníkov.
 
 
 
-Dáta sú rozdelené do dvoch častí. Prvý list s názvom Festival Pohoda (analýza dát) obsahuje všetky otázky, ktoré boli položené respondentom. Ku každej otázke sú uvedené jednotlivé oblasti odpovedí, počet získaných hlasov a ich percentuálne zastúpenie. Súčasťou listu sú aj grafické znázornenia, ktoré vizualizujú rozdelenie odpovedí. Tento list predstavuje celkový súhrn výsledkov od všetkých 1527 účastníkov bez rozlišovania ďalších charakteristík.
+Dáta sú rozdelené do dvoch častí. Prvý list s názvom (analýza dát) obsahuje všetky otázky, ktoré boli položené respondentom. Ku každej otázke sú uvedené jednotlivé oblasti odpovedí, počet získaných hlasov a ich percentuálne zastúpenie. Súčasťou listu sú aj grafické znázornenia, ktoré vizualizujú rozdelenie odpovedí. Tento list predstavuje celkový súhrn výsledkov od všetkých 1527 účastníkov bez rozlišovania ďalších charakteristík.
 
 
 
