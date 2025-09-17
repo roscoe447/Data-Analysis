@@ -151,3 +151,83 @@ Bureaucracy, migration, and poor communication are consistently the top concerns
 ---
 
 ###### **Question 6: In which areas does the EU have the most positive impact?**
+
+**18–25 years (506 respondents):**  
+Top 3: Citizens’ rights (24.1%), Investments in Slovakia (17.7%), Education & research (16.6%).  
+Bottom 3: Environment (10.8%), Business opportunities (7.9%), Other (0.4%).  
+
+**26–40 years (662 respondents):**  
+Top 3: Citizens’ rights (23.4%), Investments in Slovakia (21.4%), Defense, peace & stability (13.5%).  
+Bottom 3: Business opportunities (12.2%), Environment (8.9%), Other (0.1%).  
+
+**41–55 years (309 respondents):**  
+Top 3: Citizens’ rights (22.9%), Investments in Slovakia (20.6%), Defense, peace & stability (13.1%).  
+Bottom 3: Education & research (11.1%), Environment (9.2%), Other (0.0%).  
+
+**56+ years (46 respondents):**  
+Top 3: Citizens’ rights (23.9%), Investments in Slovakia (21.0%), Defense, peace & stability (20.3%).  
+Bottom 3: Business opportunities (8.0%), Education & research (0.7%), Other (0.0%).  
+
+**Comparison:**  
+Citizens’ rights and investments in Slovakia dominate across all age groups. Younger groups emphasize education & research, while older groups stress defense, peace, and stability. The least mentioned categories include business opportunities, environment, and *Other*.  
+
+---
+
+###### **Question 5: Word associated with the EU (by age)**
+
+**18–25 years (506 respondents):**  
+Top 3: Cooperation (95.7%), Dictate (3.2%), Other (1.2%).  
+
+**26–40 years (662 respondents):**  
+Top 3: Cooperation (89.0%), Other (8.8%), Dictate (2.3%).  
+
+**41–55 years (309 respondents):**  
+Top 3: Cooperation (84.8%), Other (13.9%), Dictate (1.3%).  
+
+**56+ years (46 respondents):**  
+Top 3: Cooperation (82.6%), Other (15.2%), Dictate (2.2%).  
+
+**Comparison:**  
+In all age groups, *cooperation* overwhelmingly dominates. Secondary associations include *Other* and *Dictate*, though at much lower levels.  
+
+---
+
+###### **Question 5: Word associated with the EU (by place of residence)**
+
+**Village (295 respondents):**  
+Top 3: Freedom (92.2%), Development (91.9%), Cooperation (90.9%).  
+Bottom 3: Lack of freedom (0.3%), Decline (0.7%), Dictate (2.0%).  
+
+**Small town (250 respondents):**  
+Top 3: Development (88.0%), Freedom (87.6%), Cooperation (87.2%).  
+Bottom 3: Decline (1.2%), Lack of freedom (1.6%), Dictate (2.0%).  
+
+**Regional city (265 respondents):**  
+Top 3: Cooperation (89.1%), Development (88.3%), Human rights (77.0%).  
+Bottom 3: Dictate (0.4%), Decline (1.1%), Lack of freedom (<2%).  
+
+**Bratislava (310 respondents):**  
+Top 3: Freedom (93.0%), Cooperation (91.6%), Development (90.3%).  
+Bottom 3: Decline (0.6%), Dictate (0.6%), Lack of freedom (<1%).  
+
+**Comparison:**  
+Across all residence types, the EU is most often associated with freedom, cooperation, and development. Negative terms such as decline, lack of freedom, and dictate are least frequent. The distributions are very similar regardless of place of residence.  
+
+---
+
+###### **Question 5: Word associated with the EU (by level of EU knowledge)**
+
+**1–4 (very good knowledge):**  
+Top 3: Cooperation (90.2%), Freedom (88.7%), Development (90.6%).  
+Bottom 3: Dictate (2.2%), Lack of freedom (0.8%), Decline (1.7%).  
+
+**5 (medium knowledge):**  
+Top 3: Cooperation (90.8%), Freedom (90.4%), Development (91.3%).  
+Bottom 3: Dictate (1.4%), Decline (0.8%), Lack of freedom (0.8%).  
+
+**6–10 (weaker knowledge):**  
+Top 3: Cooperation (87.5%), Freedom (85.0%), Development (82.5%).  
+Bottom 3: Dictate (5.0%), Decline (2.5%), Lack of freedom (2.5%).  
+
+**Comparison:**  
+In all knowledge levels, cooperation, freedom, and development dominate. Their shares are slightly lower among those with weaker knowledge. Negative associations (dictate, decline, lack of freedom) are marginal overall but somewhat higher in the weaker knowledge group.  
