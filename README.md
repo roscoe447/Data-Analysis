@@ -1,27 +1,23 @@
 # Data Analysis – Public Opinion Survey (EU)
 
-Tento repozitár obsahuje dáta a analýzu verejnej mienky EU.
-Cieľom projektu bolo získať prehľad o názoroch respondentov a vytvoriť prehľadné vizualizácie a závery.
-Dáta pochádzajú s voľne dostupných zdrojov na internete. 
+- This repository contains data and analysis of public opinion about the European Union. The aim of the project is to gain insights into respondents’ opinions and to create clear visualizations and conclusions. The data comes from publicly available online sources.
+---
+
+## 📂 Repository contents
+- `Questionnaire - inputs.xlsx` → raw input data  
+- `Public opinion analysis.xlsx` → processed results  
+- `EU - public research.ipynb` → Jupyter Notebook with code and visualizations  
+- `CONCLUSION.md` → detailed conclusions of the analysis  
+
+---
+## 🛠️ Tools
+- **Python** (pandas, matplotlib, seaborn, Jupyter)  
+- **Excel** (data processing and charts)  
 
 ---
 
-## 📂 Obsah repozitára
-- `Dotazník - vstupy.xlsx` → vstupné dáta  
-- `Analýza verejnej mienky.xlsx` → spracované výsledky  
-- `EU - public research.ipynb` → Jupyter notebook s kódom a vizualizáciami  
-- `ZAVER.md` → podrobné závery analýzy  
-
----
-
-## 🛠️ Nástroje
-- **Python** (pandas, matplotlib, seaborn, jupyter)  
-- **Excel** (spracovanie dát a grafy)  
-
----
-
-## 📝 Ako používať
-1. Stiahni alebo naklonuj repozitár.  
-2. Otvor notebook `EU - public research.ipynb` v Jupyter Notebook alebo VS Code.  
-3. Výsledky a vizualizácie sú dostupné aj v Excel súbore.  
-4. Kompletný text so závermi nájdeš v **ZAVER.md**.
+## 📝 How to Use
+1. Download or clone the repository.  
+2. Open the notebook `EU - public research.ipynb` in Jupyter Notebook or VS Code.  
+3. Results and visualizations are also available in the Excel file.  
+4. The complete report with conclusions can be found in **CONCLUSION.md**. 
