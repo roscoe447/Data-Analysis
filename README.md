@@ -12,7 +12,9 @@
 ---
 ## 🛠️ Tools
 - **Python** (pandas, matplotlib, seaborn, Jupyter)  
-- **Excel** (data processing and charts)  
+- **Excel** (data processing and charts)
+- **PowerBI** (data visualization)
+
 
 ---
 
