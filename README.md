@@ -1,6 +1,6 @@
 # Data Analysis – Public Opinion Survey (EU)
 
-- This repository contains data and analysis of public opinion about the European Union. The aim of the project is to gain insights into respondents’ opinions and to create clear visualizations and conclusions. The data comes from publicly available online sources.
+- This repository contains data and analysis of public opinion about the European Union. The aim of the project is to gain insights into respondents’ opinions and to create clear visualizations and conclusions. The data comes from publicly available online sources and do not contain any GDPR information. 
 ---
 
 ## 📂 Repository contents
